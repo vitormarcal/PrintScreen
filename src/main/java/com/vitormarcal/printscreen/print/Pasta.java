@@ -1,4 +1,4 @@
-package com.vitormarcal.printscreen;
+package com.vitormarcal.printscreen.print;
 
 import java.io.File;
 import java.text.DateFormat;

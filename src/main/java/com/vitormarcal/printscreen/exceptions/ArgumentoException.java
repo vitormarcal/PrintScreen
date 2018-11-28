@@ -1,4 +1,4 @@
-package com.vitormarcal.printscreen;
+package com.vitormarcal.printscreen.exceptions;
 
 public class ArgumentoException extends RuntimeException {
 	

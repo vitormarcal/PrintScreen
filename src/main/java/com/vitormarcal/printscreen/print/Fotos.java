@@ -1,4 +1,4 @@
-package com.vitormarcal.printscreen;
+package com.vitormarcal.printscreen.print;
 
 import java.awt.AWTException;
 import java.awt.Rectangle;
